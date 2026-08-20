@@ -29,7 +29,7 @@ of the hardened end state — is in the report.
 
 ## Report
 
-See [`Vulnerability_Report_Omar_Baydoun.docx`](./Vulnerability_Report_Omar_Baydoun.docx) for
+See [`Vulnerability_Report_OmarBaydoun.docx`](./Vulnerability_Report_OmarBaydoun.docx) for
 the full 1-page report (Diagnosis / Treatment / Proof format).
 
 ## Methodology note
