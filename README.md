@@ -18,9 +18,9 @@ The audit covers four domains, mirroring the checklist taught in this module:
 
 | ID | Finding | CVSS 3.1 | Risk |
 |----|---------|----------|------|
-| F-01 | Legacy MFA reliance (SMS) | 6.5 | Medium |
-| F-02 | Outdated / Beta OS build | 6.0 | Medium |
-| F-03 | Insecure local credential storage | 5.3 | Medium |
+| F-01 | Legacy MFA reliance (SMS) | 7.4 | High |
+| F-02 | Outdated / Beta OS build | 5.3 | Medium |
+| F-03 | Insecure local credential storage | 5.5 | Medium |
 | F-04 | Firewall stealth mode disabled | 4.3 | Medium |
 
 All four findings were remediated and independently re-verified via Terminal output and
